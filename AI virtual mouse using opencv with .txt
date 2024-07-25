@@ -1,0 +1,56 @@
+AI virtual mouse using opencv with hand gesture landmarks(python)
+=================================================================
+Abstract:
+Developed a program for controlling the mouse movement using Python and OpenCV with a real- time camera that detects hand milestones, tracks gesture patterns rather of  a physical mouse.so for this applications we are using we propose the gesture recognition algorithm is haar cascade classifier. We approach and select techniques of applying problem controlling for the robotic system.so for AI virtual mouse system makes use of the haar cascade, and it converts the co-ordinates of fingertip from the webcam screen to the computer window full screen for controlling the mouse.
+Introduction:
+Areas of application of hand gesture recognition systems such as clinic and health, sign language recognition, intellectual observation, robot management, virtual environment, home automation, personal computer and tablet, game gestures are described by detail in Munir Oudah.gestures are  has become a most common method of communicating to those people who cannot speak. It is a language that uses the hand motions to express alphabets and words. People who are using the sign language were recorded. Vision method has become the popular method used for sign recognition in the past decades. It is a system which uses a camera to sense the information that has been obtained through finger motions. It is the most commonly used visual-based method. It has been a tremendous effort and has been gone into the development of vision-based sign recognition systems through worldwide. Vision-based gesture recognition systems can be divided into direct and indirect methods.  In earlier days for recognizing hand motion, vision based technique is used. But in this method the environmental effect in the recognized image is high.
+Aim: the main aim of the project is to detect gesture base virtual mouse control conditions.
+Objective:
+The objective of the project is to detect hand gesture to give controls for the virtual mouse using haar cascade classifier. Using this project we can give best conditions for the virtual based artificial intelligence for using hand gestures.
+Exiting method:
+Existing system: 
+●	Vision based technique is used.  
+●	It is not accurate in all direction Small variations are not determined
+●	Sign language
+●	Vision method has become the popular method used for sign recognition in the past decades
+Disadvantage  
+●	Vision based technique in this method the environmental effect in the recognized image is high. 
+●	They have to show their hands to in front of the camera
+•	features
+
+Proposed method:
+•	Pre-process
+•	conversions
+•	haar cascade classifier 
+•	gesture landmarks
+
+
+
+
+
+
+
+
+
+
+
+Applications
+•	Medical applications
+•	For deaf and dumb people help applications
+ADVANTAGES
+•	Gestures are easy using landmarks
+•	Only wanted featurescan take
+Software requirements:
+●	Python idle
+●	opencv
+Hardware requirements:
+•	WINDOWS 10 OS PC 64 BIT
+•	MINIMUM 4GB RAM 
+
+REFERENCE 
+[1] B.G.Lee, member IEEE and S.M.Lee “smart wearable hand devices for sign language interpretation system with sensor fusion”, volume 18 issue: 3, February 1, 2018 IEEE sensor Journal. 
+[2] Mohammed Elmahgiubi, “sign language translator and gesture recognition”, 17 December 2015, IEEE. 
+[3] Lih-jen kau, member IEEE Bo-xun zhuo, “a real time portable sign language translation system”, 26 January 2017, IEEE Journal. 
+[4] Merin ary koshi, “a survey on advanced technology communication between deaf/dumb people using eye blink and flex sensor”, 01 February 2018, IEEE Journal. 
+[5] Safayet ahmed, “electronic speaking system for speech impaired people:  speak up”, 29 Oct 2015, IEEE Journal.
+fusion, vol. 40, Jul.2000, pp. 879-885.
